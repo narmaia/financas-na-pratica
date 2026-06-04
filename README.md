@@ -1,6 +1,6 @@
 # Finanças na Prática 💰
 
-Blog de finanças pessoais com publicação automática via IA.
+Blog de finanças pessoais.
 
 ## Stack
 - **Next.js 14** (App Router)
